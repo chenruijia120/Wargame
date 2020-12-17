@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="WarGame.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="WarGame.h" />
+    <ClInclude Include="Resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="WarGame.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\人物\bitmap1.bmp" />
+    <Image Include="..\..\..\人物\蓐收.bmp" />
+    <Image Include="..\..\..\人物\句芒.bmp" />
+    <Image Include="..\..\..\人物\玄冥.bmp" />
+    <Image Include="..\..\..\人物\祝融.bmp" />
+    <Image Include="..\..\..\人物\后土.bmp" />
+    <Image Include="res\icon.ico" />
+    <Image Include="res\Grass.bmp" />
+    <Image Include="..\..\..\人物\水滴.bmp" />
+    <Image Include="..\..\..\人物\水滴（攻击）.bmp" />
+    <Image Include="..\..\..\人物\水滴（被攻击）.bmp" />
+    <Image Include="..\..\..\人物\火苗.bmp" />
+    <Image Include="..\..\..\人物\火苗（攻击）.bmp" />
+    <Image Include="..\..\..\人物\火苗（被攻击）.bmp" />
+    <Image Include="..\..\..\人物\木头.bmp" />
+    <Image Include="..\..\..\人物\木头（攻击）.bmp" />
+    <Image Include="..\..\..\人物\木头（被攻击）.bmp" />
+    <Image Include="..\..\..\人物\铁剑.bmp" />
+    <Image Include="..\..\..\人物\铁剑（进攻）.bmp" />
+    <Image Include="..\..\..\人物\铁剑（被进攻）.bmp" />
+    <Image Include="..\..\..\人物\土堆.bmp" />
+    <Image Include="..\..\..\人物\土堆（攻击）.bmp" />
+    <Image Include="..\..\..\人物\土堆（被攻击）.bmp" />
+    <Image Include="..\..\..\人物\播放按钮.bmp" />
+    <Image Include="..\..\..\人物\暂停按钮.bmp" />
+    <Image Include="..\..\..\人物\八卦.bmp" />
+    <Image Include="..\..\..\人物\关卡选择.bmp" />
+    <Image Include="..\..\..\人物\游戏背景.bmp" />
+    <Image Include="..\..\..\人物\玩法介绍.bmp" />
+    <Image Include="..\..\..\人物\背景1.bmp" />
+    <Image Include="..\..\..\人物\背景2.bmp" />
+    <Image Include="..\..\..\人物\BACKGROUND.bmp" />
+    <Image Include="..\..\..\人物\INTRODUCTION.bmp" />
+    <Image Include="..\..\..\人物\CHOOSE.bmp" />
+    <Image Include="..\..\..\人物\关卡 贰.bmp" />
+    <Image Include="..\..\..\人物\关卡 壹.bmp" />
+    <Image Include="..\..\..\人物\返回按钮.bmp" />
+    <Image Include="..\..\..\人物\主页按钮.bmp" />
+    <Image Include="..\..\..\人物\元素战争.bmp" />
+    <Image Include="..\..\..\人物\ROLE.bmp" />
+    <Image Include="..\..\..\人物\开始游戏.bmp" />
+    <Image Include="..\..\..\人物\胜利.bmp" />
+    <Image Include="..\..\..\人物\失败.bmp" />
+    <Image Include="..\..\..\人物\通关.bmp" />
+    <Image Include="..\..\..\人物\挂.bmp" />
+    <Image Include="..\..\..\人物\icon2.ico" />
+    <Image Include="..\..\..\人物\自由对战.bmp" />
+    <Image Include="..\..\..\人物\FREEWARROLE.bmp" />
+    <Image Include="..\..\..\人物\玩家一胜利.bmp" />
+    <Image Include="..\..\..\人物\玩家二胜利.bmp" />
+    <Image Include="res\icon2.ico" />
+    <Image Include="res\水滴（被攻击）.bmp" />
+    <Image Include="res\木头.bmp" />
+    <Image Include="res\木头（攻击）.bmp" />
+    <Image Include="res\木头（被攻击）.bmp" />
+    <Image Include="res\句芒.bmp" />
+    <Image Include="res\水滴.bmp" />
+    <Image Include="res\水滴（攻击）.bmp" />
+    <Image Include="res\土堆.bmp" />
+    <Image Include="res\土堆（攻击）.bmp" />
+    <Image Include="res\土堆（被攻击）.bmp" />
+    <Image Include="res\暂停按钮.bmp" />
+    <Image Include="res\背景1.bmp" />
+    <Image Include="res\背景2.bmp" />
+    <Image Include="res\元素战争.bmp" />
+    <Image Include="res\开始游戏.bmp" />
+    <Image Include="res\玄冥.bmp" />
+    <Image Include="res\胜利.bmp" />
+    <Image Include="res\通关.bmp" />
+    <Image Include="res\玩家一胜利.bmp" />
+    <Image Include="res\玩家二胜利.bmp" />
+    <Image Include="res\铁剑.bmp" />
+    <Image Include="res\铁剑（进攻）.bmp" />
+    <Image Include="res\铁剑（被进攻）.bmp" />
+    <Image Include="res\玩法介绍.bmp" />
+    <Image Include="res\INTRODUCTION.bmp" />
+    <Image Include="res\关卡 贰.bmp" />
+    <Image Include="res\关卡 壹.bmp" />
+    <Image Include="res\主页按钮.bmp" />
+    <Image Include="res\ROLE.bmp" />
+    <Image Include="res\蓐收.bmp" />
+    <Image Include="res\后土.bmp" />
+    <Image Include="res\挂.bmp" />
+    <Image Include="res\FREEWARROLE.bmp" />
+    <Image Include="res\火苗.bmp" />
+    <Image Include="res\火苗（攻击）.bmp" />
+    <Image Include="res\火苗（被攻击）.bmp" />
+    <Image Include="res\播放按钮.bmp" />
+    <Image Include="res\八卦.bmp" />
+    <Image Include="res\关卡选择.bmp" />
+    <Image Include="res\游戏背景.bmp" />
+    <Image Include="res\BACKGROUND.bmp" />
+    <Image Include="res\CHOOSE.bmp" />
+    <Image Include="res\返回按钮.bmp" />
+    <Image Include="res\祝融.bmp" />
+    <Image Include="res\失败.bmp" />
+    <Image Include="res\自由对战.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="res">
+      <UniqueIdentifier>{97725428-4f33-461d-9532-4216434f7501}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

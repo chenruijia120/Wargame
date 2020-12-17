@@ -1,0 +1,186 @@
+// Microsoft Visual C++ generated resource script.
+//
+#pragma code_page(65001)
+
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 中文(简体，中国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICON1               ICON                    "res\\icon.ico"
+
+IDI_ICON2               ICON                    "res\\icon2.ico"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_BITMAP_GRASS        BITMAP                  "res\\Grass.bmp"
+
+IDB_BITMAP_WATER1       BITMAP                  "res\\水滴.bmp"
+
+IDB_BITMAP_WATER2       BITMAP                  "res\\水滴（攻击）.bmp"
+
+IDB_BITMAP_WATER3       BITMAP                  "res\\水滴（被攻击）.bmp"
+
+IDB_BITMAP_FIRE1        BITMAP                  "res\\火苗.bmp"
+
+IDB_BITMAP_FIRE2        BITMAP                  "res\\火苗（攻击）.bmp"
+
+IDB_BITMAP_FIRE3        BITMAP                  "res\\火苗（被攻击）.bmp"
+
+IDB_BITMAP_WOOD1        BITMAP                  "res\\木头.bmp"
+
+IDB_BITMAP_WOOD2        BITMAP                  "res\\木头（攻击）.bmp"
+
+IDB_BITMAP_WOOD3        BITMAP                  "res\\木头（被攻击）.bmp"
+
+IDB_BITMAP_GOLD1        BITMAP                  "res\\铁剑.bmp"
+
+IDB_BITMAP_GOLD2        BITMAP                  "res\\铁剑（进攻）.bmp"
+
+IDB_BITMAP_GOLD3        BITMAP                  "res\\铁剑（被进攻）.bmp"
+
+IDB_BITMAP_SOIL1        BITMAP                  "res\\土堆.bmp"
+
+IDB_BITMAP_SOIL2        BITMAP                  "res\\土堆（攻击）.bmp"
+
+IDB_BITMAP_SOIL3        BITMAP                  "res\\土堆（被攻击）.bmp"
+
+IDB_BITMAP_CONTINUE     BITMAP                  "res\\播放按钮.bmp"
+
+IDB_BITMAP_STOP         BITMAP                  "res\\暂停按钮.bmp"
+
+IDB_BITMAP_BAGUA        BITMAP                  "res\\八卦.bmp"
+
+IDB_BITMAP_CHOOSE       BITMAP                  "res\\关卡选择.bmp"
+
+IDB_BITMAP_BACKGROUND   BITMAP                  "res\\游戏背景.bmp"
+
+IDB_BITMAP_INTRODUCTION BITMAP                  "res\\玩法介绍.bmp"
+
+IDB_BITMAP_STAGE1       BITMAP                  "res\\背景1.bmp"
+
+IDB_BITMAP_STAGE2       BITMAP                  "res\\背景2.bmp"
+
+IDB_BITMAP_BACKGROUND1  BITMAP                  "res\\BACKGROUND.bmp"
+
+IDB_BITMAP_INTRODUCTION1 BITMAP                  "res\\INTRODUCTION.bmp"
+
+IDB_BITMAP_CHOOSE1      BITMAP                  "res\\CHOOSE.bmp"
+
+IDB_BITMAP_GUANQIA2     BITMAP                  "res\\关卡 贰.bmp"
+
+IDB_BITMAP_GUANQIA1     BITMAP                  "res\\关卡 壹.bmp"
+
+IDB_BITMAP_BACK         BITMAP                  "res\\返回按钮.bmp"
+
+IDB_BITMAP_HOME         BITMAP                  "res\\主页按钮.bmp"
+
+IDB_BITMAP_TEW          BITMAP                  "res\\元素战争.bmp"
+
+IDB_BITMAP_ROLE         BITMAP                  "res\\ROLE.bmp"
+
+IDB_BITMAP_START        BITMAP                  "res\\开始游戏.bmp"
+
+IDB_BITMAP_GOLD         BITMAP                  "res\\蓐收.bmp"
+
+IDB_BITMAP_WOOD         BITMAP                  "res\\句芒.bmp"
+
+IDB_BITMAP_WATER        BITMAP                  "res\\玄冥.bmp"
+
+IDB_BITMAP_FIRE         BITMAP                  "res\\祝融.bmp"
+
+IDB_BITMAP_SOIL         BITMAP                  "res\\后土.bmp"
+
+IDB_BITMAP_SUCCESS      BITMAP                  "res\\胜利.bmp"
+
+IDB_BITMAP_FAIL         BITMAP                  "res\\失败.bmp"
+
+IDB_BITMAP_TONGGUAN     BITMAP                  "res\\通关.bmp"
+
+IDB_BITMAP_GUA          BITMAP                  "res\\挂.bmp"
+
+IDB_BITMAP_FREEWAR      BITMAP                  "res\\自由对战.bmp"
+
+IDB_BITMAP_FREEWARROLE  BITMAP                  "res\\FREEWARROLE.bmp"
+
+IDB_BITMAP_SUCCESS1     BITMAP                  "res\\玩家一胜利.bmp"
+
+IDB_BITMAP_SUCCESS2     BITMAP                  "res\\玩家二胜利.bmp"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE
+BEGIN
+    IDS_APP_TITLE           "元素战争"
+    IDC_WARGAME             "元素战争"
+END
+
+#endif    // 中文(简体，中国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
